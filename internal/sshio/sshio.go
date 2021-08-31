@@ -1,3 +1,5 @@
+// package sshio contains some io utilities
+
 package sshio
 
 import (

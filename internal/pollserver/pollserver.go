@@ -1,3 +1,5 @@
+// package pollserver contains the server logic
+
 package pollserver
 
 import (
